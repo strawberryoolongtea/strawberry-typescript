@@ -52,3 +52,21 @@ typescript 패키지를 설치한다. `npm i typescript`
 ## script 명령으로 등록하는 방법
 
 `"build": "tsc"` 로 등록해서 사용할 수 있다. 즉, 앞서 말한 'node_modules/.bin/tsc'와 같은 긴 명령어로 쓸 필요가 없다.
+
+# Data Types
+
+## ECMAScript 표준에 따른 기본 자료형
+
+- Boolean
+- Number
+- String
+- Null
+- Undefined
+- Symbol
+- Array: object형
+
+## 추가적으로 제공되는 타입
+
+- Any, Void, Never, Unknown
+- Enum
+- Tuple: object형
