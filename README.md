@@ -70,3 +70,5 @@ typescript 패키지를 설치한다. `npm i typescript`
 - Any, Void, Never, Unknown
 - Enum
 - Tuple: object형
+
+## Type System
